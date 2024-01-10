@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Analises
-    Created on : 25 de set. de 2023, 00:44:48
-    Author     : mauro
---%>
+
 
 <%@page import="model.Analise"%>
 <%@page import="java.util.List"%>
